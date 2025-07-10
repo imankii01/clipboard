@@ -168,3 +168,4 @@ This project is open source and available under the [MIT License](LICENSE).
 ---
 
 **Made with ❤️ by [Ankit Singh](https://github.com/imankii01) | Powered by [Snapstay](https://snapstay.in)**# clipboard
+# clipboard
