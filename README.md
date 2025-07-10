@@ -137,7 +137,7 @@ This project is open source and available under the [MIT License](LICENSE).
 **All credit goes to [Ankit Singh (@imankii01)](https://github.com/imankii01)** - also known as `@bymecofee` on social media.
 
 - **GitHub**: [@imankii01](https://github.com/imankii01)
-- **Twitter**: [@bymecofee](https://twitter.com/bymecofee)
+- **Twitter**: [@bymecofee](https://twitter.com/imankii01)
 - **Powered by**: [Snapstay](https://snapstay.in)
 
 ## 🔗 Links
